@@ -34,6 +34,8 @@
 
 1. 영화에 대한 정보를 크롤링합니다 ( `node.js` 이용 )
 
+- 2020/08/22 수정: `cgv`와 `megabox`는 `beautifulsoap(python)` 이용 & `lottecinema`는 `puppeteer(Node.js)` 이용
+
 2. DB를 구축합니다 ( `mySQL`, `node.js` 이용 )
 
 3. DB와 연동하여 정보를 웹페이지에 업로드 합니다 ( `node.js` 이용 )
