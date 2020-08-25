@@ -41,7 +41,7 @@
 
 - 2020/08/22 수정:  `beautifulsoap(python)` 이용
 
-- `node.js`를 이용한 시행착오 코드는 [trial&error](trial&error) 폴더에 :)
+- `node.js`를 이용한 시행착오 코드는 [trial&error](https://github.com/midannii/movie-minjok/tree/master/%0Atrial%26error) 폴더에 :)
 
 2. DB를 구축합니다 ( `mySQL`, `pymysql` 이용 )
 
