@@ -41,6 +41,8 @@
 
 - 2020/08/22 수정:  `beautifulsoap(python)` 이용
 
+- `node.js`를 이용한 시행착오 코드는 [trial&error](trial&error) 폴더에 :)
+
 2. DB를 구축합니다 ( `mySQL`, `pymysql` 이용 )
 
 3. DB와 연동하여 정보를 웹페이지에 업로드 합니다 ( `node.js` 이용 )
