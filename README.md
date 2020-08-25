@@ -25,6 +25,11 @@
 또한 영화 예매를 위해 필요한 많은 정보들을 관리하기 위한 비용도 절약된다.
 
 
+### step by step
+
+[회의 일지](step_by_step.md)에 내용을 기록
+
+
 ### workflow
 
 [figure 추가 예정 ]
@@ -34,9 +39,9 @@
 
 1. 영화에 대한 정보를 크롤링합니다 ( `node.js` 이용 )
 
-- 2020/08/22 수정: `cgv`와 `megabox`는 `beautifulsoap(python)` 이용 & `lottecinema`는 `puppeteer(Node.js)` 이용
+- 2020/08/22 수정:  `beautifulsoap(python)` 이용
 
-2. DB를 구축합니다 ( `mySQL`, `node.js` 이용 )
+2. DB를 구축합니다 ( `mySQL`, `pymysql` 이용 )
 
 3. DB와 연동하여 정보를 웹페이지에 업로드 합니다 ( `node.js` 이용 )
 
