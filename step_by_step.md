@@ -35,3 +35,19 @@
   - 8/27 회의
 
     - 오프라인으로 만나 웹페이지 같이 설계 및 디자인 할 예정
+
+    - 상영관 정보 크롤링 방법 찾아보기
+
+        - 만약에 안되면..? -> DB 구조 수정 방법 ??
+
+    - 상영관:  movie_id 빼기 & sang_id 자동으로
+
+        - 지점 id는 areacode & theater code 따오기 (구조 변경 필요)
+
+    - 시간표: price 빼기
+
+    - city table 만들기
+
+    - table_id
+
+    - movie 제목만 insert 
