@@ -36,19 +36,20 @@
 
     - 상영관 정보 크롤링 방법 찾아보기
 
-        - 만약에 안되면..? -> DB 구조 수정 방법 ??
-
-    - 상영관:  movie_id 빼기 & sang_id 자동으로
+    - sql문 수정 필요
+      - 상영관:  movie_id 빼기 & sang_id 자동으로
 
         - 지점 id는 areacode & theater code 따오기 (구조 변경 필요)
 
-    - 시간표: price 빼기
+      - 시간표: price, count 빼기
 
-    - city table 만들기
+      - city table 만들기
 
-    - table_id
+      - table_id
 
-    - movie 제목만 insert
+      - movie는 일단 제목만 insert
+
+    - mysql과 web 연동하는 방법 공부하기 
 
   -  9/2 회의 [예정]
 
