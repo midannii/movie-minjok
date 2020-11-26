@@ -213,3 +213,22 @@
 - 미단 ) mongoDB를 mysql로 바꾸기
 
 - 다은 ) mongoDB를 이용해서 react 적용해보기
+
+
+
+## 11/26
+
+
+- mysql 로 변환 완료! [💭](https://github.com/midannii/boiler_plates_)
+
+- 프론트엔드 부분이랑 합치기  ✅ #npm run dev
+
+  - 에러를 해결해보고, mysql쓸지 mongoDB 쓸지 결정 (24h)
+
+- 이제 **나머지 기능** 구현해야 함
+
+  - `영화 조회`
+
+  - `영화 소개`
+
+  - `영화 예매, 결제`
