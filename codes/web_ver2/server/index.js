@@ -90,7 +90,7 @@ app.get('/', function(req, res){ // 뷰 rendering
 });
 
 // 회원가입 & password 암호화 (bcrypt)
-app.post('/api/user', function(req, res){
+app.post('/api/users/register', function(req, res){
 
   var ID = req.body.user_Id;
   var NICK = req.body.user_nick;
